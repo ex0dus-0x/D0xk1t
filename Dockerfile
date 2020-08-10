@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:18.04
 MAINTAINER Alan Cao "ex0dus@codemuch.tech"
 
 RUN apt-get -q update
